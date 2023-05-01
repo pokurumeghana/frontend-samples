@@ -1,0 +1,56 @@
+.background{
+    background-image: url("meghana1.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.fcard{
+    text-align:center;
+    background-color: bisque;
+    border-radius: 15px;
+    margin:30px;
+    height: 150px;
+}
+.background1{
+    background-image: url("ooty1.jpg");
+    background-size: cover;
+    height: 200vh;
+}
+.heading{
+    color:aqua;
+    text-align: center;
+}
+.card1{
+    background-color: rgb(187, 246, 248);
+    margin:20px;
+    padding:20px;
+}
+.image1{
+    height:200px;
+    width:250px;
+}
+.button{
+    background-color: rgb(151, 112, 149);
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 620px;
+    color:aquamarine;
+    height:50px;
+    width:100px;
+    border-color: bisque;
+}
+.button1{
+    background-color: rgb(151, 112, 149);
+    text-align: center;
+    color:aquamarine;
+    height:50px;
+    width:100px;
+    border-color: bisque;
+}
+.bg2{
+    background-color: rgb(235, 138, 74);
+    background-size: cover;
+    height: 240vh;
+}
+.amristarbullets{
+    list-style-type: circle;
+}

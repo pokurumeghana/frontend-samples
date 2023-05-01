@@ -1,0 +1,51 @@
+.background{
+    background-image: url("meghana1.jpg");
+    background-size: cover;
+    height:200vh;
+}
+.heading{
+    padding-top: 20px;
+    text-align: center;
+}
+.bcard{
+    background-color: aqua;
+}
+.fcard1{
+    margin-right: 45px;
+    margin-top: 35px;
+    text-align: center;
+}
+.image1{
+    height:250px;
+    width:400px;
+    border-radius: 25px;
+}
+.subcard{
+    background-color: rgb(243, 230, 49);
+    margin-bottom: 20px;
+    padding:15px;
+}
+.card2{
+    margin-bottom: 20px;
+    padding:15px;
+}
+.megh{
+    padding-left:30px;
+    padding-top:30px;
+}
+.background1{
+    background-color: aquamarine;
+    background-size: cover;
+    height:210vh;
+}
+.button{
+    background-color: blue;
+    margin-left:700px;
+    border-radius: 25px;
+    margin-top:20px;
+    height:40px;
+    width:60px;
+}
+.paragraph{
+    font-size: 30px;
+}
