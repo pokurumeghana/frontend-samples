@@ -1,0 +1,15 @@
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.color-box{
+    padding:30px;
+}
+.paragraph{
+    text-align: center;
+    color:white;
+}
+.column-spacing{
+    margin-bottom: 20px;
+}
